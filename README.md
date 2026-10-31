@@ -24,6 +24,7 @@
 
 | 项目/资料 | 来源 | 意图（为什么学） | 状态 |
 |-----------|------|------------------|------|
-| （示例）deepseek-harness-hub | GitHub | 研究 Harness 智能体框架的实现 | 学习中 |
+| ai-agent-handbook-main | GitHub | AI Agent 实践手册，学习 Agent 工程 | 学习中 |
+| codex-cli-docs | OpenAI 官方文档（learn.chatgpt.com） | Codex CLI 官方产品文档离线资料集（31 页中文译文 + 英文存档） | 学习中 |
 
 > 每移入一个新项目，在表中追加一行；状态建议用：待整理 / 学习中 / 已掌握 / 弃用。
