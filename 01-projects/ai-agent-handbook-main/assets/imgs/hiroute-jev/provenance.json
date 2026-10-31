@@ -1,0 +1,100 @@
+{
+  "schema": "handbook.hiroute-jev-illustrations/v1",
+  "source_revision": "5232db559bb8e856d44549d5e1488c7cf4f78d83",
+  "images": [
+    {
+      "file": "competence-guard-zh.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1497644,
+      "sha256": "3bddf9c31a3e9157ee2a14375ab16f01ba39af1fbeb9b6c9b7273583fe7cc0af",
+      "kind": "generated-explanatory-slide",
+      "tool": "image_gen",
+      "date": "2026-10-12",
+      "measurements": false,
+      "product_screenshot": false
+    },
+    {
+      "file": "decision-loop-zh.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1402399,
+      "sha256": "2fb2ded24a4fb38cd545831e262957c71a2158b5786a0870c930fdd11b2e5e5f",
+      "kind": "generated-explanatory-slide",
+      "tool": "image_gen",
+      "date": "2026-10-12",
+      "measurements": false,
+      "product_screenshot": false
+    },
+    {
+      "file": "desktop-plan-competence-zh.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 297038,
+      "sha256": "99bb1d202de501563ffe9e877b038fd83c2da9fc1ea4736b88590bc4c63474bf",
+      "kind": "native-product-screenshot",
+      "capture_date": "2026-10-05",
+      "image_edits": false,
+      "source": "https://github.com/higress-group/HiRoute/blob/5232db559bb8e856d44549d5e1488c7cf4f78d83/news/assets/desktop-plan-competence-zh.png",
+      "data_origin": "Same historical replay; final Astra stage remains unrated",
+      "public_source_blob_verified": true
+    },
+    {
+      "file": "desktop-session-competence-zh.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 189914,
+      "sha256": "77acce3ed9554a566e88bb95492e6446e6a28e765ba83edaa71d323cf8187276",
+      "kind": "native-product-screenshot",
+      "capture_date": "2026-10-05",
+      "image_edits": false,
+      "source": "https://github.com/higress-group/HiRoute/blob/5232db559bb8e856d44549d5e1488c7cf4f78d83/news/assets/desktop-session-competence-zh.png",
+      "data_origin": "Unchanged historical HTTPX stage records in an isolated native product replay",
+      "public_source_blob_verified": true
+    },
+    {
+      "file": "desktop-smart-saving-zh.png",
+      "width": 2522,
+      "height": 1980,
+      "bytes": 1697146,
+      "sha256": "4048c9f46a6568cabfa495c3497d020100148febb5f657f14ac1d1eca804fb30",
+      "kind": "user-provided-product-screenshots",
+      "received_date": "2026-10-14",
+      "composition": "Original screenshot 3 copied unchanged"
+    },
+    {
+      "file": "independent-questions-zh.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1382237,
+      "sha256": "447bb2041124f3e11e0d773073ae1ed95ee6a27ec9074844f1d5f2ce9f237373",
+      "kind": "generated-explanatory-slide",
+      "tool": "image_gen",
+      "date": "2026-10-12",
+      "measurements": false,
+      "product_screenshot": false
+    },
+    {
+      "file": "feedback-routing-zh.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1675653,
+      "sha256": "ff74eee0bbf56271704324a9bad87ed83043eb3197f52afdfc069615bd0183ad",
+      "kind": "generated-explanatory-slide",
+      "tool": "image_gen",
+      "date": "2026-10-14",
+      "measurements": false,
+      "product_screenshot": false
+    },
+    {
+      "file": "desktop-custom-branches-zh.png",
+      "width": 3480,
+      "height": 1980,
+      "bytes": 2484219,
+      "sha256": "d161a5d10b50f266b06a94e33bfef84a1cb7477f163e5d3c2cf27f4f426b8bdf",
+      "kind": "user-provided-product-screenshots",
+      "received_date": "2026-10-14",
+      "composition": "Original screenshots 1 and 2 placed left to right at native resolution with a 24 px white gap; no cropping or content alteration"
+    }
+  ]
+}
