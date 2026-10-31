@@ -26,5 +26,7 @@
 |-----------|------|------------------|------|
 | ai-agent-handbook-main | GitHub | AI Agent 实践手册，学习 Agent 工程 | 学习中 |
 | codex-cli-docs | OpenAI 官方文档（learn.chatgpt.com） | Codex CLI 官方产品文档离线资料集（31 页中文译文 + 英文存档） | 学习中 |
+| Fission-AI-OpenSpec | GitHub（Fission-AI/OpenSpec） | OpenSpec 官方文档集：写代码前先与 AI 对齐计划的规范驱动工作流 | 待整理 |
+| mattpocock-skills | GitHub（mattpocock） | Matt Pocock 的 Agent skills 集合（engineering/productivity），参考技能设计与提示词写法 | 待整理 |
 
 > 每移入一个新项目，在表中追加一行；状态建议用：待整理 / 学习中 / 已掌握 / 弃用。
