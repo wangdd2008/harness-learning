@@ -24,3 +24,6 @@ build/
 
 # 日志
 *.log
+
+# 临时验证与工作痕迹
+.research/
